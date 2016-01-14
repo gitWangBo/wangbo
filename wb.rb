@@ -8,4 +8,9 @@ end
 def out
 end
 
+def
+puts "git reset"
+end
+
+
 end
