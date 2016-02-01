@@ -1,1 +1,2 @@
-git resert --soft
+git reset --soft
+git reset --hard
